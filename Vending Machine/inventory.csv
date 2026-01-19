@@ -1,0 +1,16 @@
+ID,Name,Price,Stock,Unit Sold
+1,Coke,10.0,14,1
+2,Pepsi,11.5,13,0
+3,BigApple,9.0,10,0
+4,BigLeeche,9.5,10,0
+5,Shezan,5.0,11,0
+6,Sprite,9.0,11,1
+7,Fanta,9.0,12,0
+8,MountainDew,11.0,9,1
+9,7Up,9.0,14,0
+10,RedBull,18.0,8,0
+11,Sting,12.0,9,0
+12,Pakola,8.0,13,0
+Product Count,12
+Total Revenue,80.0
+Total Sold,3
